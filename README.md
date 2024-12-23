@@ -8,14 +8,6 @@ A fully responsive Netflix clone built using **HTML** and **CSS**. This project 
 - **Browse Content**: Explore a wide range of movies and TV shows categorized by genres.
 - **Search Functionality**: Search for movies or series using keywords.
 
-## Screenshots
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400)
-
-### Browse Content
-![Browse Content](https://via.placeholder.com/800x400)
-
 ## Tech Stack
 
 - **Frontend**: HTML & CSS
@@ -26,7 +18,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/AmardeepSingh-06/Netflix-Clone.git
    cd netflix-clone
    ```
 
@@ -47,22 +39,6 @@ Follow these steps to set up the project locally:
 │   └── ...    #   images
 └── README.md   # Project README
 ```
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 **Note**: This is a clone project for educational purposes only and is not intended for commercial use.
 
