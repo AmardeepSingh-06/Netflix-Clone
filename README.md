@@ -39,7 +39,3 @@ Follow these steps to set up the project locally:
 │   └── ...    #   images
 └── README.md   # Project README
 ```
-
-**Note**: This is a clone project for educational purposes only and is not intended for commercial use.
-
-Feel free to modify and expand upon this project! 🚀
